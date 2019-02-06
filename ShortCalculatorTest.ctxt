@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ShortCalculatorTest
+comment1.params=
+comment1.target=void\ testShortSum()
+comment2.params=
+comment2.target=void\ testShortDifference()
+comment3.params=
+comment3.target=void\ testShortProduct()
+comment4.params=
+comment4.target=void\ testShortDivisor()
+comment5.params=
+comment5.target=void\ testShortRemainder()
+numComments=6

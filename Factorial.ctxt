@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Factorial
+comment1.params=value
+comment1.target=java.math.BigInteger\ factorialOf(java.lang.Integer)
+comment1.text=\n\ Write\ a\ program\ that\ computes\ the\ factorial\ n\!\ \=\ 1\ x\ 2\ x\ ...\ x\ n,\ \n\ using\ BigInteger.\ Compute\ the\ factorial\ of\ 1000\n
+numComments=2
