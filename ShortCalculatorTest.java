@@ -1,9 +1,3 @@
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
-
-import java.math.BigInteger;
-
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 public class ShortCalculatorTest {
